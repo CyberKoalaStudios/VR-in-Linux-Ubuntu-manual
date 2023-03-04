@@ -36,7 +36,10 @@ $ sudo udevadm control --reload-rules
 ```bash
 $ sudo adb kill-server  
 $ sudo adb start-server  
+```
 
+## 5. Connect your HMD via USB 3.0 cable and run:
+```
 $ sudo adb devices  
 ```
 
@@ -58,6 +61,7 @@ $ sudo apt install steam
 ```
 
 Optional: install SideQuest https://github.com/SideQuestVR/SideQuest/releases
+It can link your HMD via WIFI - very helpful feature
 ```bash
 $ wget https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.33/SideQuest-0.10.33.tar.xz
 $ tar -xvf SideQuest-0.10.33.tar.xz
