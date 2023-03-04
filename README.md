@@ -45,7 +45,7 @@ $ sudo adb devices
 
 Successfull output should be like this:
 ```bash
-List of devices attaced
+List of devices attached
 1WWWAAAFFFF device
 ```
 
