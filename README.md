@@ -1,6 +1,7 @@
 # VR-in-Linux-Ubuntu-manual
 How to run VR projects (Unity) in Ubuntu
 
+WIKI: https://github.com/CyberKoalaStudios/VR-in-Linux-Ubuntu-manual/wiki
 
 First things first:
 ## 1. Dependencies
