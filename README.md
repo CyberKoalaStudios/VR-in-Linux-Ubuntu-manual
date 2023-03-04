@@ -38,7 +38,7 @@ $ sudo adb kill-server
 $ sudo adb start-server  
 ```
 
-## 5. Connect your HMD via USB 3.0 cable and run:
+## 6. Connect your HMD via USB 3.0 cable and run:
 ```
 $ sudo adb devices  
 ```
